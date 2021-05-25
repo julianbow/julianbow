@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Julian Bowman, 20 year old software engineer from Colorado
+  Hi, I'm Julian Bowman, a 20 year old software engineer from Colorado
   <br>
   <br>
   🔬 I Recently graduated from Hack Reactors Advanced Software Engineering Immersive Program
