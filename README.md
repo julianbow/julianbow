@@ -19,8 +19,6 @@
   🔬 I Recently graduated from Hack Reactors Advanced Software Engineering Immersive Program
   <br>
   <br>
-  🎓 I graduated from Steamboat Springs High School
-  <br>
   💻 I love writing code, problem solving and anything to do with code
   <br>
   📚 I’m currently learning how to build mobile applications with React Native
