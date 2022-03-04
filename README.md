@@ -15,7 +15,7 @@
   Hi, I'm Julian Bowman, a full stack software engineer from Colorado
   <br>
   <br>
-  🔬 I Recently graduated from Hack Reactors Advanced Software Engineering Immersive Program
+  🔬 I Recently graduated from Hack Reactors Advanced Software Engineering Immersive Program, and I work at WeatherFlow as a fulltime web developer
   <br>
   <br>
   💻 I love writing code, problem solving and anything to do with code
