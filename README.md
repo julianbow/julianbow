@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code, problem solving and anything to do with code
   <br>
-  📚 I’m currently learning how to build mobile applications with React Native
+  📚 I currently work as a full time web developer at WeatherFlow Tempest
   <br>
   📫 How to reach me: <a href="mailto: julianfbowman@gmail.com">Julianfbowman@gmail.com</a>
 </p>
